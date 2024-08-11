@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdeshmukh01&show_icons=true&locale=en&layout=compact" alt="gauravdeshmukh01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravdeshmukh01&show_icons=true&locale=en" alt="gauravdeshmukh01" /></p>
+
+![](https://leetcard.jacoblin.cool/gauravdeshmukh1010?ext=heatmap)
