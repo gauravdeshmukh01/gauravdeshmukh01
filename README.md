@@ -44,5 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravdeshmukh01&show_icons=true&locale=en" alt="gauravdeshmukh01" /></p>
 
 <p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdeshmukh01&" alt="gauravdeshmukh01" /></p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/gauravdeshmukh01?ext=heatmap)
-
+![](https://leetcard.jacoblin.cool/gauravdeshmukh01?ext=heatmap)
