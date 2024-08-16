@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravdeshmukh01&label=Profile%20views&color=0e75b6&style=flat" alt="gauravdeshmukh01" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=gauravdeshmukh01&label=Profile%20views&color=0e75b6&style=flat" alt="gauravdeshmukh01" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravdeshmukh01" alt="gauravdeshmukh01" /></a> </p>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=gauravdeshmukh01" alt="gauravdeshmukh01" />
+    </a>
+</p>
 
 - 📫 How to reach me **gauravdeshmukh1010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gauravdeshmukh01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav deshmukh" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_garry_deshmukh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_garry_deshmukh_01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gauravdeshmukh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravdeshmukh01" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/gauravdeshmukh01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav deshmukh" height="30" width="40" /></a>
+    <a href="https://instagram.com/itz_garry_deshmukh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_garry_deshmukh_01" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/gauravdeshmukh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravdeshmukh01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,10 +45,6 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdeshmukh01&show_icons=true&locale=en&layout=compact" alt="gauravdeshmukh01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravdeshmukh01&show_icons=true&locale=en" alt="gauravdeshmukh01" /></p>
-
-![](https://leetcard.jacoblin.cool/gauravdeshmukh01?ext=heatmap)
-
-<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdeshmukh01&" alt="gauravdeshmukh01" /></p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdeshmukh01&show_icons=true&locale=en&layout=compact" alt="gauravdeshmukh01" />
+    <img src="https://leetcard
