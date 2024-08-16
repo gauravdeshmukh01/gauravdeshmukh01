@@ -57,9 +57,9 @@
         <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravdeshmukh01&show_icons=true&locale=en" alt="gauravdeshmukh01" /></td>
     </tr>
     <tr>
-        <td colspan="2"><img align="center" src="https://leetcard.jacoblin.cool/gauravdeshmukh01?ext=heatmap" alt="gauravdeshmukh01" /></td>
+        <td colspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdeshmukh01&" alt="gauravdeshmukh01" /></td>
     </tr>
     <tr>
-        <td colspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdeshmukh01&" alt="gauravdeshmukh01" /></td>
+        <td colspan="2"><img align="center" src="https://leetcard.jacoblin.cool/gauravdeshmukh01?ext=heatmap" alt="gauravdeshmukh01" /></td>
     </tr>
 </table>
