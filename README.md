@@ -16,9 +16,8 @@
   <a href="https://instagram.com/itz_garry_deshmukh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parag_ghatage_35" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/gauravdeshmukh01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravdeshmukh01" height="30" width="40" /></a>
 <a href="https://x.com/gauravd2103" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X_logo_2023.svg" alt="gauravd2103" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravd2103" height="30" width="40" />
 </a>
-
 
 </a>
 
