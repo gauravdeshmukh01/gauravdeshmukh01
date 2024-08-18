@@ -4,8 +4,7 @@
 
 
 
-<p align="center"> 📫 Get in touch </p>
-<p align="center"><a href="gauravdeshmukh1010@gmail.com">gauravdeshmukh1010@gmail.com</a></p>
+- 📫 How to reach me **gauravdeshmukh1010@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
