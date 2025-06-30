@@ -48,5 +48,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdeshmukh01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=gauravdeshmukh01&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
   
-  <img src="https://github-profile-trophy.vercel.app?username=gauravdeshmukh01&theme=dark_lover&row=1&margin-w=10&margin-h=0&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+
 </div>
